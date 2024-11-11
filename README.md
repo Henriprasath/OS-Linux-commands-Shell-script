@@ -1,7 +1,7 @@
-# OS-Linux-commands-Shell-scripting
-Operating systems Lab exercise
-# Linux commands-Shell scripting
-Linux commands-Shell scripting
+# EXP-01 OS-Linux-commands-Shell-scripting
+### Name: HENRIPRASATH S
+### Register No: 212223230077
+### Date:
 
 # AIM:
 To practice Linux Commands and Shell Scripting
